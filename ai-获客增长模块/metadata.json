@@ -1,0 +1,6 @@
+{
+  "name": "AI 获客增长模块",
+  "description": "面向中小型化学品与试剂供应商的智能线索发现、采购意向识别、招投标分析、外贸客户背调及开发话术一站式智能CRM跟进模块。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
